@@ -37,6 +37,5 @@ public class Solution {
             head = null;
             prev = null;
         }
-        
     }
 }
